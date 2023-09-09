@@ -1,0 +1,42 @@
+h1{
+	color:white;
+	list-style:none;
+}
+li{
+	color:white;
+	display:block;
+	float:right;
+	display:inline;
+	padding:10px;
+	margin-top: 0px;
+	
+}
+h2{
+	margin-top:150px;
+	color:white;
+	text-align:center;
+	line-height:30px;
+	word-spacing:7px;
+
+}
+button.one{
+	margin-top:20px;
+	padding:10px;
+	background-color:black;
+	color:white;
+	border:2px solid white;
+	margin: 20px 30px;
+	margin-left:200px;
+	cell-spacing:30px;
+}
+button.two{
+	background-color:white;
+	color:black;
+	padding:10px;
+	font-size:15px;
+	margin-left:180px;
+
+}
+img{
+	float:right;	
+	
